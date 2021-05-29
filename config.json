@@ -1,0 +1,10 @@
+{
+    "fileName":"6001-7000",
+    "fileExt":"csv",
+    "language":"portuguese",
+    "site":"1x",
+    "env":"real",
+    "headless":true,
+    "startLine":1,
+    "endLine": 0
+}
